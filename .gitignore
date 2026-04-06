@@ -1,0 +1,10 @@
+*.pdf
+*.json
+!scripts/*.json
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+/ads_data.json
+/ADS-*.md
+/ADS-*.pdf

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="320">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="320" rx="12" fill="url(#bg)"/>
+
+  <!-- Top accent line -->
+  <rect x="40" y="40" width="120" height="4" rx="2" fill="url(#accent)"/>
+
+  <!-- Main title -->
+  <text x="40" y="105" font-family="monospace, 'Courier New'" font-size="62" font-weight="bold" fill="#f97316" letter-spacing="6">AI ADS</text>
+
+  <!-- Subtitle -->
+  <text x="40" y="140" font-family="monospace, 'Courier New'" font-size="20" fill="#2563eb" letter-spacing="2">STRATEGIST</text>
+
+  <!-- Tagline -->
+  <text x="40" y="172" font-family="monospace, 'Courier New'" font-size="15" fill="#6b7b8d">AI-Powered Advertising Strategy Engine for Claude Code</text>
+
+  <!-- Stat badges row -->
+  <!-- Badge: 15 Skills -->
+  <rect x="40" y="195" width="105" height="28" rx="6" fill="#0d1117" stroke="#2563eb" stroke-width="1"/>
+  <text x="92" y="214" font-family="monospace, 'Courier New'" font-size="12" fill="#f97316" text-anchor="middle" font-weight="bold">15 Skills</text>
+
+  <!-- Badge: 5 Agents -->
+  <rect x="160" y="195" width="100" height="28" rx="6" fill="#0d1117" stroke="#2563eb" stroke-width="1"/>
+  <text x="210" y="214" font-family="monospace, 'Courier New'" font-size="12" fill="#f97316" text-anchor="middle" font-weight="bold">5 Agents</text>
+
+  <!-- Badge: 6 Platforms -->
+  <rect x="275" y="195" width="115" height="28" rx="6" fill="#0d1117" stroke="#2563eb" stroke-width="1"/>
+  <text x="332" y="214" font-family="monospace, 'Courier New'" font-size="12" fill="#f97316" text-anchor="middle" font-weight="bold">6 Platforms</text>
+
+  <!-- Badge: PDF Reports -->
+  <rect x="405" y="195" width="120" height="28" rx="6" fill="#0d1117" stroke="#2563eb" stroke-width="1"/>
+  <text x="465" y="214" font-family="monospace, 'Courier New'" font-size="12" fill="#f97316" text-anchor="middle" font-weight="bold">PDF Reports</text>
+
+  <!-- Badge: A/B Testing -->
+  <rect x="540" y="195" width="120" height="28" rx="6" fill="#0d1117" stroke="#2563eb" stroke-width="1"/>
+  <text x="600" y="214" font-family="monospace, 'Courier New'" font-size="12" fill="#f97316" text-anchor="middle" font-weight="bold">A/B Testing</text>
+
+  <!-- Command previews -->
+  <text x="40" y="258" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#2563eb">/ads strategy</tspan><tspan fill="#4A5568"> full 5-agent audit</tspan>
+  </text>
+  <text x="310" y="258" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#2563eb">/ads copy</tspan><tspan fill="#4A5568"> platform ad copy</tspan>
+  </text>
+  <text x="560" y="258" font-family="monospace, 'Courier New'" font-size="13">
+    <tspan fill="#2563eb">/ads report-pdf</tspan><tspan fill="#4A5568"> PDF report</tspan>
+  </text>
+
+  <!-- Bottom bar -->
+  <rect x="0" y="296" width="900" height="24" rx="0" fill="#0A0F1A"/>
+  <text x="40" y="313" font-family="monospace, 'Courier New'" font-size="12" fill="#4A5568">
+    google ads + meta + linkedin + tiktok + youtube + pinterest — audience to conversion in one command
+  </text>
+</svg>
