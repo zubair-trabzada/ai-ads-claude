@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================================
 # AI Ads Strategist — Claude Code Skills Installer
-# 15 Skills · 5 Agents · 6 Platforms · PDF Reports
+# 16 Skills · 5 Agents · 6 Platforms · PDF Reports
 # ============================================================================
 set -e
 
@@ -17,7 +17,7 @@ echo ""
 echo -e "${BLUE}╔══════════════════════════════════════════════════════════════╗${NC}"
 echo -e "${BLUE}║                                                              ║${NC}"
 echo -e "${BLUE}║${NC}   ${CYAN}AI Ads Strategist — Claude Code Skills${NC}                    ${BLUE}║${NC}"
-echo -e "${BLUE}║${NC}   ${GREEN}15 Skills · 5 Agents · 6 Platforms · PDF Reports${NC}          ${BLUE}║${NC}"
+echo -e "${BLUE}║${NC}   ${GREEN}16 Skills · 5 Agents · 6 Platforms · PDF Reports${NC}          ${BLUE}║${NC}"
 echo -e "${BLUE}║                                                              ║${NC}"
 echo -e "${BLUE}╚══════════════════════════════════════════════════════════════╝${NC}"
 echo ""
@@ -95,6 +95,7 @@ fi
 # Install 14 sub-skills
 # ---------------------------------------------------------------------------
 SKILLS=(
+    ads-strategy
     ads-audience
     ads-competitors
     ads-keywords
