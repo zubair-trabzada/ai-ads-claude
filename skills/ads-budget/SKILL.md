@@ -152,7 +152,7 @@ For every budget input, generate these three scenarios:
 - Use Advantage+ / Performance Max for automated optimization
 - Test 5-10 ad variations per ad set
 - Weekly creative refresh
-- Scale winners by 20-30% every 3 days
+- Scale winners by 20-30% every 3 days — once the winner is beating its trailing 6-week average, not off one hot week
 
 **When to Recommend:** Proven funnel, strong margins, budget $5K+/mo, experienced media buyer, pixel data with 50+ conversions/month.
 
@@ -271,7 +271,7 @@ Break-Even CPA = $400 × 0.40 = $160
 | Creative refresh | Weekly | Need content pipeline (UGC creators, designer, video editor) |
 | Automation | Advantage+ / PMax | Let platforms optimize with large data sets |
 | Team needs | Media buyer + creative designer | Consider hiring or outsourcing at this budget |
-| Success metric | Blended ROAS >3x | Scale budget 20% weekly on campaigns above target ROAS |
+| Success metric | Blended ROAS >3x | Scale budget 20% at a time on campaigns whose trailing 6-week ROAS is above target |
 
 **Milestone to scale:** Systematized creative pipeline, consistent ROAS, clear path to $20K/mo.
 
@@ -316,13 +316,16 @@ Break-Even CPA = $400 × 0.40 = $160
 
 ### When to Increase Budget
 - Campaign has been profitable (ROAS > target) for 7+ consecutive days
+- The trailing 6-week ROAS is also above target (7 good days on top of a weak 6-week trend is usually noise)
 - CPA is 30%+ below break-even CPA
 - Frequency is below 2.0 (still reaching new people)
-- Conversion volume is increasing week-over-week
+- Conversion volume is above its trailing 6-week average — not just up week-over-week
 
 **How much to increase:** 20-30% every 3-5 days. Never double overnight — algorithms need time to re-optimize.
 
 ### When to Decrease Budget
+Check the 6-week trend first. A one-week dip against a stable 6-week baseline usually reverts on its own — cutting into it resets learning for nothing. Losing money (ROAS below 1x) and the "When to Pause" rules below still call for action immediately.
+
 - CPA has been above break-even for 5+ consecutive days
 - ROAS is below 1x (losing money)
 - Frequency is above 4.0 (audience fatigue)
